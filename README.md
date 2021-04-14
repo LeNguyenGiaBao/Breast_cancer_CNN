@@ -17,7 +17,21 @@ Total images: 1624
 ## Model
 Base model: VGG16.
 
-Fine - turning with 4 classes in output layer
+Fine - turning with 4 classes in output layer  
+Total params: 15,305,156
 
 ## Training
-![Alt Text](https://ibb.co/g4cj1DF)
+
+Epoch: 50  
+Batch_size = 64  
+
+
+![Alt Text](https://github.com/LeNguyenGiaBao/Breast_cancer_use_CNN_Nhom9/blob/master/accuracy.png)  
+Accuracy graph
+
+![Alt Text](https://github.com/LeNguyenGiaBao/Breast_cancer_use_CNN_Nhom9/blob/master/loss.png)  
+Loss graph
+
+
+## Test model
+Run predict.py, with data_path variable is your data set path 
