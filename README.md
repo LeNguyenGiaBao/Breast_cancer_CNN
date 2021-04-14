@@ -1,4 +1,4 @@
-# Breast_cancer_use_CNN_Nhom9
+# Breast_cancer_CNN
 
 The project using CNN architecture to predict breast cancer cell.
 
