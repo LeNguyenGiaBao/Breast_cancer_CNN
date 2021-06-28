@@ -11,7 +11,9 @@ Breast cancer data have 4 types:
 - InSitu
 - Invasive
 - Normal
+
 Size: 13gb
+
 Total images: 1624
 
 ## Model
